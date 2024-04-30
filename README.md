@@ -2,7 +2,7 @@
 
 ## About This Script
 
-This directory contains a script which helps initialize a template json file for translations of this software.
+This directory contains a script which helps initializing a template json file for translations of a software.
 
 ## Usage
 
