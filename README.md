@@ -1,6 +1,6 @@
 # MKTranslate
 
-## About This Directory
+## About This Script
 
 This directory contains a script which helps initialize a template json file for translations of this software.
 
