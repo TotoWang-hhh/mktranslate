@@ -14,6 +14,8 @@ This script helps initializing a template json file for translations of the soft
 
 **This part of the document is only for developers!**
 
-If you want to provide this script to everyone who want to create a translation of your software, you can simply contain MKTranslate anywhere under your software's directory. It is recommanded to also attach this introduction.
+If you want to provide this script to everyone who want to create a translation of your software, you can simply contain MKTranslate anywhere under your software's directory. It is also recommanded to attach this introduction.
+
+You can do some modify on this introduction to make it fits your environment.
 
 Please obey the rules of the public license.
