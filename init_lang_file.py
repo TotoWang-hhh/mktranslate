@@ -2,19 +2,11 @@
 # MKTranslate can quickly initialize a json translation file. What you have to do is to write every single sentence into the sentences list below.
 
 sentences=[\
-"Error",
-"Config file not found!\nPick a config file after closing this dialog.\nIf you don't have a config file, please download a config file template from the internet, then move it to the working directory.",
-"Choose a Config File",
-"You didn't choose any file. The program will end after closing this dialog.",
-"Enter API Key",
-"Depending on the configuration settings, you have to obtain and specify the API key yourself",
-"No Value Entered",
-"You have not entered any value, Demo mode will be enabled as there is no API key available.",
-"City List",
-"Add City",
-"Add",
-"Warning",
-"Invalid translation file! Will use English."]
+"Here will be the sentences which you wished to be translated.",
+"These sentences are stored in a list. Each item is a single sentence.",
+"If you want to have a multi-line string translated, just break it with line separator.\nLike this!",
+"It is recommended to write one single list item in each line to keep the code readable. Just like I did.",\
+]
 
 
 ### Code Below ###
