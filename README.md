@@ -2,6 +2,8 @@
 
 ## About This Script
 
+**2024 by rgzz666**
+
 This script helps initializing a template json file for translations of the software via the config written inside the source code.
 
 ## Usage
